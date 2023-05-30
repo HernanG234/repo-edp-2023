@@ -1,3 +1,7 @@
+funcion {
+	echo HOLA
+}
+
 Primero
 Hola
 Chau
